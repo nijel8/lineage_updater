@@ -1,0 +1,1 @@
+OTA update check URL: https://androidfilehost.com/api/?action=folder&flid=176641
